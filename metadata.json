@@ -1,0 +1,5 @@
+{
+  "name": "SFT Rewriter Presentation",
+  "description": "Interactive presentation for training a Humanizer/Rewriter model using SFT and LoRA.",
+  "requestFramePermissions": []
+}
